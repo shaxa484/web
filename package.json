@@ -2,7 +2,7 @@
   "name": "your-app-name",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://shaxa484.github.io/web",
+  "homepage": "https://web-7ep0oqvay-shaxa484s-projects.vercel.app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
